@@ -16,7 +16,15 @@ Azhaar Athahiroh | 2409116057 | Sistem Informasi
    - setelah menampilkan hasil perhitungan, pengguna bisa memilih untuk lanjut atau keluar dari program dengan mengetikkan "ya" untuk keluar dan "tidak" untuk melanjutkan
      ![image](https://github.com/user-attachments/assets/205d1d14-f08b-43ec-8b23-17ae5b5c77de)
 # Kode program
-1. program menghitung gaji karyawan
+1. Program menghitung gaji karyawan
    ![image](https://github.com/user-attachments/assets/4e79b1e1-a3f3-4898-bc50-f25f65af974d)
-2. while true digunakan untuk loop agar program berjalan terus hingga pengguna memilih keluar, lalu memasukkan jam kerja dan memasukkan gaji kerja
+2. Lalu while True digunakan untuk loop agar program berjalan terus hingga pengguna memilih keluar, lalu memasukkan jam kerja dan memasukkan gaji kerja
    ![image](https://github.com/user-attachments/assets/46b6a8ba-d550-4e79-b11d-17cc9cc7e08f)
+3. If untuk mengecek apakah jam kerja lebih dari 160 jam untuk menentukan apakah mendapatkan bonus 10%
+   ![image](https://github.com/user-attachments/assets/76e6d7a4-2e9c-43a1-94ab-727886236387)
+4. tidak mendapatkan bonus jika kurang dari 160 jam
+   ![image](https://github.com/user-attachments/assets/9108ac97-74c8-428f-b5dc-18e1dc441cfd)
+5. keluar untuk opsi apakah ingin keluar dari program
+   ![image](https://github.com/user-attachments/assets/b70d6508-5d18-4e22-9aea-3f52eb72b192)
+6. break untuk mengakhiri loop jika pengguna mengetik "ya"
+   ![image](https://github.com/user-attachments/assets/fb75b75f-4d17-47cd-89f2-942429e0bdc8)
