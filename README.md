@@ -15,3 +15,8 @@ Azhaar Athahiroh | 2409116057 | Sistem Informasi
 4. Opsi keluar
    - setelah menampilkan hasil perhitungan, pengguna bisa memilih untuk lanjut atau keluar dari program dengan mengetikkan "ya" untuk keluar dan "tidak" untuk melanjutkan
      ![image](https://github.com/user-attachments/assets/205d1d14-f08b-43ec-8b23-17ae5b5c77de)
+# Kode program
+1. program menghitung gaji karyawan
+   ![image](https://github.com/user-attachments/assets/4e79b1e1-a3f3-4898-bc50-f25f65af974d)
+2. while true digunakan untuk loop agar program berjalan terus hingga pengguna memilih keluar, lalu memasukkan jam kerja dan memasukkan gaji kerja
+   ![image](https://github.com/user-attachments/assets/46b6a8ba-d550-4e79-b11d-17cc9cc7e08f)
