@@ -2,6 +2,8 @@
 Azhaar Athahiroh | 2409116057 | Sistem Informasi
 # flowchart
 ![image](https://github.com/user-attachments/assets/2ad3c4d6-72ca-44ef-abf1-2e9b956085a5)
+# output dari awal hingga akhir
+![image](https://github.com/user-attachments/assets/d70f7a12-615d-416a-a601-a39f62305a42)
 # tahapan output
 1. Input jam kerja dan gaji
    - Program meminta input jam kerja dan gaji per jam
@@ -24,7 +26,7 @@ Azhaar Athahiroh | 2409116057 | Sistem Informasi
    ![image](https://github.com/user-attachments/assets/76e6d7a4-2e9c-43a1-94ab-727886236387)
 4. tidak mendapatkan bonus jika kurang dari 160 jam
    ![image](https://github.com/user-attachments/assets/9108ac97-74c8-428f-b5dc-18e1dc441cfd)
-5. keluar untuk opsi apakah ingin keluar dari program
+5. keluar untuk opsi apakah ingin keluar dari program, jika "ya" loop akan berhenti, jika "tidak" maka program akan mengulang
    ![image](https://github.com/user-attachments/assets/b70d6508-5d18-4e22-9aea-3f52eb72b192)
 6. break untuk mengakhiri loop jika pengguna mengetik "ya"
    ![image](https://github.com/user-attachments/assets/fb75b75f-4d17-47cd-89f2-942429e0bdc8)
