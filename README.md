@@ -2,8 +2,10 @@
 Azhaar Athahiroh | 2409116057 | Sistem Informasi B
 # flowchart
 ![image](https://github.com/user-attachments/assets/2ad3c4d6-72ca-44ef-abf1-2e9b956085a5)
-# output dari awal hingga akhir
-![image](https://github.com/user-attachments/assets/d70f7a12-615d-416a-a601-a39f62305a42)
+# output dapat bonus
+![image](https://github.com/user-attachments/assets/9bb31414-53d6-4fb3-a06b-af18d7c9cfb8)
+# output tidak dapat bonus
+![image](https://github.com/user-attachments/assets/f3f63b33-6816-4bfa-b7f5-8e0e3c637626)
 # tahapan output
 1. Input jam kerja dan gaji
    - Program meminta input jam kerja dan gaji per jam
